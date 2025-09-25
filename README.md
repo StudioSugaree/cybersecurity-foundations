@@ -1,6 +1,6 @@
 # Cybersecurity Foundations Portfolio
 
-This repository documents my journey through core cybersecurity skills and certifications completed in preparation for Georgia Tech’s MS in Cybersecurity program (starting Jan 2026).
+This repository documents my journey through core cybersecurity skills and certifications completed in preparation for an MS in Cybersecurity program (starting Jan 2026).
 
 It contains hands-on labs, scripts, study notes, and implementation exercises across five domains:
 
